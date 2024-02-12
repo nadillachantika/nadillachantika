@@ -15,7 +15,7 @@
 ## Education:
 
 #### 1. [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Bachelor of Software Engineering | Padang `2018-2022`
-#### 2. [SMA N 1 Kebumen](https://www.sman4bukittinggi.sch.id/) | IPA | Bukittinggi `2015-2018`
+#### 2. [SMA N 4 Bukittinggi](https://www.sman4bukittinggi.sch.id/) | IPA | Bukittinggi | `2015-2018`
 
 ## Work Experience:
 #### 1. [PT. Teknologi Asia(Udacoding)](https://www.udacoding.com/) | Web Developer | Batam `Aug'2022 - Now`
