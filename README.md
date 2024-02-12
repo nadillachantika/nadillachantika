@@ -21,7 +21,7 @@
 #### 1. [PT. Teknologi Asia(Udacoding)](https://www.udacoding.com/) | Web Developer | Batam `Aug'2022 - Now`
    
 ### Languages and Tools:
-[<img align="left" alt="Laravel" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALaravel.svg&psig=AOvVaw0EB1XI7I8K5khtdVEBGrQk&ust=1707836904853000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC3yrKKpoQDFQAAAAAdAAAAABAE" style="padding-right:10px;" />][laravel]
+[<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" style="padding-right:10px;" />][laravel]
 [<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][flutter]
 [<img align="left" alt="jquery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="padding-right:10px;" />][jquery]
 [<img align="left" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][javascript]
