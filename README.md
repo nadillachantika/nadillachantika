@@ -29,13 +29,14 @@
 [<img align="left" alt="DART" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />][dart]
 [<img align="left" alt="MYSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
 
-[laravel]: #laravel
-[flutter]: #flutter
-[jquery]: #jquery
-[javascript]: #javascript
-[php]: #php
-[dart]: #dart
-[mysql]: #mysql
+[laravel]: #
+[flutter]: #
+[jquery]: #
+[javascript]: #
+[php]: #
+[dart]: #
+[mysql]: #
+
 
 <br />
 <br />
