@@ -18,7 +18,7 @@
 #### 2. [SMA N 4 Bukittinggi](https://www.sman4bukittinggi.sch.id/) | IPA | Bukittinggi | `2015-2018`
 
 ## Work Experience:
-#### 1. [PT. Teknologi Asia(Udacoding)](https://www.udacoding.com/) | Web Developer | Batam `Aug'2022 - Now`
+#### 1. [PT. Teknologi Asia(Udacoding)](https://www.udacoding.com/) | Web Developer | Batam `Aug'2023 - Now`
    
 ### Languages and Tools:
 [<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" style="padding-right:10px;" />][laravel]
