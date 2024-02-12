@@ -10,15 +10,6 @@
 ### GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nadillachantika&theme=algolia&hide_border=false)<br/>
-
-
-## Education:
-
-#### 1. [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Bachelor of Software Engineering | Padang `2018-2022`
-#### 2. [SMA N 4 Bukittinggi](https://www.sman4bukittinggi.sch.id/) | IPA | Bukittinggi | `2015-2018`
-
-## Work Experience:
-#### 1. [PT. Teknologi Asia(Udacoding)](https://www.udacoding.com/) | Web Developer | Batam `Aug'2023 - Now`
    
 ### Languages and Tools:
 [<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" style="padding-right:10px;" />][laravel]
