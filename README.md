@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as Fullstack Developer
 - 🌱 I’m currently learning Laravel and Flutter
 - 👯 I’m looking to collaborate as Web and Mobile Developer
-- 💬 Ask me about anything
 - 📫 How to reach me: nadilla.c.putri@gmail.com
 
 
