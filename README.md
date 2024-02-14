@@ -1,4 +1,4 @@
-# Hi there, I'm Nadilla - aka [nadillacputri](https://www.youtube.com/channel/UCD1cmHm50D4WFcaXjgDLT3A) 👋
+# Hi there, I'm Nadilla👋
 ## About me:
 - 🔭 I’m currently working as Fullstack Developer
 - 🌱 I’m currently learning Laravel and Flutter
