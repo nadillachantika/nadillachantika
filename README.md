@@ -31,8 +31,9 @@
 <br />
 
 ![nadillachantika's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadillachantika&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadillachantika&layout=compact&theme=radical&hide_border=true) <br>
-[![](https://visitcount.itsvg.in/api?id=nadillachantika&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadillachantika&layout=compact&theme=radical&hide_border=true) 
+<br>
+[![](https://visitcount.itsvg.in/api?id=nadillachantika&label=Profile%20Views&color=10&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <br />
 
 ---
