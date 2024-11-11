@@ -7,8 +7,7 @@
 
 
 ### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadillachantika&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nadillachantika&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Languages and Tools:
 [<img align="left" alt="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" style="padding-right:10px;" />][laravel]
