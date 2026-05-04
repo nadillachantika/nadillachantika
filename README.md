@@ -10,7 +10,7 @@ connecting code, quality, and data.
 ## 📊 Activity
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nadillachantika\&show_icons=true\&theme=tokyonight\&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nadillachantika&theme=jolly&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nadillachantika&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
